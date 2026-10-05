@@ -10,7 +10,7 @@
 // }
 
 
-// function User({name,age}){    //we can do like this also to fetch data by passing one object with the same property name (where you call it),...
+// function User({name,age}){    //we can do like this also to fetch data by passing one object with the same property name (where you call it) (Destructuring),...
 //     // console.log(name);
 
 //     return <div>
